@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web 1</title>
+</head>
+<body>
+    <h1>WEB 1</h1>
+    <p>Sample paragraph Sample paragraph Sample paragraph Sample paragraph Sample paragraph Sample paragraph Sample paragraph Sample paragraph</p>
+
+    <a href="https://www.youtube.com/">refer youtube </a>
+    <br>
+    <a href="/web2.html">go to my web2 </a>
+</body>
+</html>
