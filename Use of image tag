@@ -7,13 +7,14 @@
 </head>
 <body>
     <h1>WEB 1</h1>
+    <hr>
     <p>Sample paragraph Sample paragraph Sample paragraph Sample paragraph Sample paragraph Sample paragraph Sample paragraph Sample paragraph</p>
-
     <a href="https://www.youtube.com/">refer youtube </a>
     <br>
     <a href="/web2.html">go to my web2 </a>
-
-    <br> 
+    <br>
+    <hr> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKimrjFWdSL-1d7EGY0excHnxtFU0AN29WNw&s" height="250">
+    <hr>
 </body>
 </html>
