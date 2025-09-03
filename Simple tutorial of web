@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Python Basics</title>
+  <style>
+    body {
+      background: #e0f7fa;
+      color: #333;
+      font-family: sans-serif;
+      padding: 20px;
+    }
+
+<hr>
+
+    h1 {
+      color: #00796b;
+    }
+    pre {
+      background: #fce4ec;
+      padding: 10px;
+      border-left: 4px solid #ec407a;
+    }
+    code {
+      color: #d32f2f;
+    }
+  </style>
+</head>
+<body>
+  <h1>Learn Python</h1>
+  <p>Python is easy and fun to learn!</p>
+  <pre><code># A simple Python program
+name = "Alice"
+print("Hello, " + name + "!")</code></pre>
+</body>
+</html>
