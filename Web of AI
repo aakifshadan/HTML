@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI TOOLS</title>
+</head>
+<body>
+    <hr>
+    <hr>
+    <hr>
+    <h1 style="color: blueviolet;"> <b><u>AI TOOLS</u></b></h1>
+    <hr>
+    <hr>
+    <hr>
+
+    <br>
+    <br>
+    <h3 style="color: crimson;"><u><b>There are few best AI apps for the students.</b></u></h3>
+
+    <br>
+    <b><a href="https://www.perplexity.ai/">Perplexity</a> </b> 
+    <p>This AI Tool is for AI Qna interface </p>
+    <hr>
+
+    <br>
+    <b><a href="https://www.grammarly.com/edu">Grammarly</a></b> 
+    <p>This AI Tool is for writing and communication</p>
+    <hr>
+
+    <br>
+    <b><a href="https://openai.com/index/dall-e-2/?utm_source=chatgpt.com">DALL E</a></b> 
+    <p>This AI Tool is for AI images</p>
+    <hr>
+
+    <br>
+    <b><a href="https://tome.app">Tome Ai</a></b>
+    <p>This AI Tool is for presentation</p>
+    <hr>
+
+    <br>
+    <b><a href="https://suno.com">Suno Ai</a></b> 
+    <p>This AI Tool is for music</p>
+    <hr>
+
+</body>
+</html>
